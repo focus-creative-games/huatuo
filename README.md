@@ -1,6 +1,6 @@
 # HybridCLR
 
-旧Huatuo重生为**HybridCLR(代号wolong)**，[https://github.com/focus-creative-games/hybridclr](https://github.com/focus-creative-games/hybridclr)。
+旧Huatuo重生为**HybridCLR**，[https://github.com/focus-creative-games/hybridclr](https://github.com/focus-creative-games/hybridclr)。
 
 HybridCLR 是一个**特性完整、零成本、高性能、低内存**的**近乎完美**的Unity全平台原生c#热更方案。
 
@@ -10,8 +10,10 @@ HybridCLR是 **focus-creative-games（代码哲学）** 公司的代表作品，
 
 ## 支持与联系
 
-- QQ群：651188171 HybridCLR(wolong)技术交流群 **(官方主群)**。可以反馈bug，但**不要在群里咨询基础使用问题**。
-- QQ群：428404198 HybridCLR(wolong)新手群 **(新手群)**。新手使用过程中遇到问题，都可以在群里咨询。
-- 邮箱：hybridclr@focus-creative-games.com
+- 官方1群：651188171。可以反馈bug，但**不要在群里咨询基础使用问题**。
+- 官方2群：680274677。可以反馈bug，但**不要在群里咨询基础使用问题**。
+- 新手1群：428404198。新手使用过程中遇到问题，都可以在群里咨询。
+- 官方邮箱：hybridclr@focus-creative-games.com
+- 商业合作邮箱: business@focus-creative-games.com
 
 
